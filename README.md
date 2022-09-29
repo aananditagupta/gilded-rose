@@ -1,20 +1,5 @@
 # Gilded Rose
 
-### Guidance Notes
-
-- Clone or fork this repo, and do this exercise in any of the available languages that you are most comfortable using.
-- There is no time limit to this exercise, but try to time box it for yourself to avoid spending an inordinate amount of effort on it.
-- A history of git commits will be very helpful when we go on to discuss the exercise.
-- This exercise is about sparking a conversation, not about the "best" technical implementation.
-
-### Additional notes for Junior developers
-
-- You are not required to finish this exercise.
-- Your approach to the problem is more interesting to us than a solution.
-- This is mostly a refactoring exercise - you do not need to have any reverence for the current implementation!
-
-### Requirements Specification
-
 Hi and welcome to team Gilded Rose. 
 
 As you know, we are a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as they approach their sell by date. We have a system in place that updates our inventory for us. It was developed by a no-nonsense type named Leeroy, who has moved on to new adventures. Your task is to add the new feature to our system so that we can begin selling a new category of items. First an introduction to our system:
